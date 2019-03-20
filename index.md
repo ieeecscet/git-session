@@ -9,7 +9,7 @@ Go to [this link](https://git-scm.com/download/win). Follow the instructions to 
 1. Accept the terms and conditions
 2. Install Git Bash and Git GUI
 3. Select your preferred text editor
-3. Select Use Git from Git Bash only"
+3. Select "Use Git from Git Bash only"
 4. Select "Use the OpenSSL library"
 4. Select "Checkout windows style, commit unix style line endings"
 4. Select "Use Windows default console window"
