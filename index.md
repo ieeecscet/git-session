@@ -1,8 +1,6 @@
 # Git Session Intro
 
-## Installing git
-
-### Windows
+## Windows
 
 Go to [this link](https://git-scm.com/download/win). Follow the instructions to install git bash.
 
