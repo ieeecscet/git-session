@@ -1,6 +1,8 @@
 # Git Session Intro
 
-## Windows
+## Installing git
+
+### Windows
 
 Go to [this link](https://git-scm.com/download/win). Follow the instructions to install git bash.
 
@@ -13,7 +15,7 @@ Go to [this link](https://git-scm.com/download/win). Follow the instructions to 
 4. Select "Use Windows default console window"
 4. Select the first two extra options
 
-## Linux
+### Linux
 
 You know what you're doing.
 
@@ -30,3 +32,7 @@ You probably already have this.
 
 Why are you even here?
 > sudo dnf install git
+
+## Create a github account
+
+Go to [github](https://github.com) and make an account if you don't already have one.
