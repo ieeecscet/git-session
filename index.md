@@ -61,7 +61,8 @@ made an online repo at github.com.
 Now we need to connect the local repo to the online repo. This is done
 using the `git remote` command. 
 
-Syntax: git remote add origin \[URL\]
+Syntax:
+> git remote add origin \[URL\]
 
 
 ![image](Images/2.png)
@@ -74,9 +75,10 @@ This add the modified and new files to the staging area. Then the files
 are committed with a commit message using `git commit`. This records the
 changes in the local repo.
 
-Syntax: git add \[FILE(S)\] 
+Syntax: 
+> git add \[FILE(S)\] 
 
-git commit -m
+> git commit -m
 \"MESSAGE\" 
 
 ![image](Images/3.png) 
@@ -104,7 +106,8 @@ To push these changes to the remote repo, use `git push`. In the example
 given below, origin is the name of the remote, and master is the name of
 the branch.
 
-Syntax: git push \[REMOTE NAME\] \[BRANCH NAME\]
+Syntax: 
+> git push \[REMOTE NAME\] \[BRANCH NAME\]
 
 
 ![image](Images/5.png)
@@ -117,7 +120,8 @@ Use the `git log` command to see all the previous changes with their commit mess
 
 Use `git checkout` to revert to a previous state of the repo. 
 
-Syntax: git checkout \[BRANCH\]
+Syntax: 
+> git checkout \[BRANCH\]
 
 
 ![image](Images/10.png)
