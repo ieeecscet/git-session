@@ -144,7 +144,7 @@ choosing which change to keep.
 
 
 ### References 
-Check out the following if you want to know more about git
+Intersted in learning more about git , check out the following <b/>
 [Official Documentation](https://guides.github.com/introduction/git-handbook/) <br/>
 [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) <br/>
 
