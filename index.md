@@ -74,7 +74,9 @@ This add the modified and new files to the staging area. Then the files
 are committed with a commit message using `git commit`. This records the
 changes in the local repo.
 
-Syntax: git add \[FILE(S)\] git commit -m
+Syntax: git add \[FILE(S)\] 
+
+git commit -m
 \"MESSAGE\" 
 
 ![image](Images/3.png) 
