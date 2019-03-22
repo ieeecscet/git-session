@@ -89,7 +89,7 @@ Among the first things you should do when you install Git is to set your user na
 > $ git config --global user.email <YourEmailHere>
 
 This will add the credentials to the config file stored locally, and will prompt you to login to the gitHub id provided.
-![image](Images/9.png)
+![image](Images/Git-Session.png)
 
 ### Pushing Changes to the Remote Repository
 
