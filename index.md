@@ -85,11 +85,14 @@ Syntax: git add \[FILE(S)\] git commit -m
 
 Among the first things you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
 
-> $ git config --global user.name "<YoutUserNameHere>"
-> $ git config --global user.email <YourEmailHere>
+> $ git config --global user.name "YoutUserNameHere"
+  
+  And then
+  
+> $ git config --global user.email YourEmailHere
 
-This will add the credentials to the config file stored locally, and will prompt you to login to the gitHub id provided.
-![image](Images/Git-Session.png)
+This will add the credentials to the config file stored locally, and will prompt you to login to the GitHub Id, you just provided.
+![image](Images/git-Session.png)
 
 ### Pushing Changes to the Remote Repository
 
