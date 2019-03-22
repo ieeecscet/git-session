@@ -145,8 +145,8 @@ choosing which change to keep.
 
 ### References 
 Check out the following if you want to know more about git
-[Official Documentation](https://guides.github.com/introduction/git-handbook/)
-[Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[Official Documentation](https://guides.github.com/introduction/git-handbook/) <br/>
+[Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) <br/>
 
 Interested in doing interactive learning through git visualization, then check out [Learngitbranching](https://learngitbranching.js.org/)
 
