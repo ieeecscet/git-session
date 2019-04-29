@@ -144,11 +144,9 @@ choosing which change to keep.
 
 
 ### References 
-Intersted in learning more about git , check out the following <br/>
-[Official Documentation](https://guides.github.com/introduction/git-handbook/) <br/>
-[Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) <br/>
-[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) <br/>
-Interested in doing interactive learning through git visualization, then check out [Learngitbranching](https://learngitbranching.js.org/)<br/>
-[Just an all in one reference](http://bit.ly/download-git-notes-for-professionals)<br/>
-
-
+Intersted in learning more about git, check out the following  
+[Official Documentation](https://guides.github.com/introduction/git-handbook/)  
+[Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)  
+[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)  
+Interested in doing interactive learning through git visualization, then check out [Learn git branching](https://learngitbranching.js.org/)  
+[Just an all in one reference](http://bit.ly/download-git-notes-for-professionals)  
